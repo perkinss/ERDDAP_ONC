@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/axis.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/cassandra-driver-core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-compress.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/guava.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/joid.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lz4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/metrics-core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/netcdfAll-latest.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/netty-all.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/postgresql.jdbc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/tsik.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/wsdl4j.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
